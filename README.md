@@ -1,2 +1,1 @@
-# FCC-04.1-Sudoku-Solver
-freeCodeCamp-Quality-Assurance-Projects-04.1-Sudoku Solver
+# [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
